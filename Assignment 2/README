@@ -1,0 +1,2 @@
+credit to https://vhdlguide.readthedocs.io/en/latest/vhdl/testbench.html
+Used that link to find the code and then created the vcd file and ran gtkwave
